@@ -1,0 +1,1 @@
+A set of Matlab scripts that creates a framework for doing algorithm trading. It scrapes and parses data for yahoo finance, allowing the user to focus on scripting algorithms for trading.
